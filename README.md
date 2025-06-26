@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Bhuvan Dj
+# 👋 Hi, I'm Bhuvan Raj DJ
 
 💼 Full Stack Developer Intern @ Deedbee Social Ventures Pvt. Ltd.  
 🎓 Computer Science Graduate  
