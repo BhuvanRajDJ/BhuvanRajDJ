@@ -1,6 +1,9 @@
-💼 Full Stack Developer Intern @ Deedbee Social Ventures Pvt. Ltd.
-🎓 Computer Science Graduate with a passion for developing scalable and impactful web applications.
-🛠️ Worked with: MERN stack (MongoDB, Express.js, React, Node.js), PostgreSQL — hands-on experience across the full development lifecycle.
-🌱 Currently exploring: DevOps, cloud infrastructure, and system architecture to grow as a well-rounded engineer.
-🚀 Always curious, always building — with clean code, performance, and user experience in mind.
-📫 Let’s connect: bhuvan3cs@gmail.com
+# 👋 Hi, I'm Bhuvan Dj
+
+💼 Full Stack Developer Intern @ Deedbee Social Ventures Pvt. Ltd.  
+🎓 Computer Science Graduate  
+🛠️ Worked with: MERN stack, PostgreSQL  
+🌱 Exploring DevOps and Cloud Infrastructure  
+🚀 Always building, always learning.
+
+📫 Connect with me: [LinkedIn](https://linkedin.com/in/bhuvanrajdj083) | [Email](bhuvan3cs@gmail.com)
