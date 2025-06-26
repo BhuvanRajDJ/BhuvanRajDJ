@@ -1,12 +1,6 @@
-Here's a completed version of the template for you:
-
-- 👋 Hi, I’m @BhuvanRajDJ
-- 👀 I’m interested in backend development and web technologies.
-- 🌱 I’m currently learning backend development using JavaScript.
-- 💞️ I’m looking to collaborate on projects related to web development and API creation.
-- 📫 How to reach me: bhuvan3cs@gmail.com
-- ⚡ Fun fact:  I’m a big martial arts enthusiast!
-<!---
-BhuvanRajDJ/BhuvanRajDJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💼 Full Stack Developer Intern @ Deedbee Social Ventures Pvt. Ltd.
+🎓 Computer Science Graduate with a passion for developing scalable and impactful web applications.
+🛠️ Worked with: MERN stack (MongoDB, Express.js, React, Node.js), PostgreSQL — hands-on experience across the full development lifecycle.
+🌱 Currently exploring: DevOps, cloud infrastructure, and system architecture to grow as a well-rounded engineer.
+🚀 Always curious, always building — with clean code, performance, and user experience in mind.
+📫 Let’s connect: bhuvan3cs@gmail.com
